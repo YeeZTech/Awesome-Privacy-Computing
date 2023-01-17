@@ -189,6 +189,9 @@ Using Trusted Execution Environments for Secure Stream Processing of Medical Dat
 Computation on Encrypted Data using Dataflow Authentication | PETS'20 | [link](https://petsymposium.org/2020/files/papers/issue1/popets-2020-0002.pdf)
 secureTF: A Secure TensorFlow Framework | Middleware'20 | [link](https://arxiv.org/pdf/2101.08204.pdf)
 Vessels: Efficient and Scalable Deep Learning Prediction on Trusted Processors | SoCC'20 | [link](https://lifeasageek.github.io/papers/kyungtae-vessels.pdf)
+## 3.2 Open Source Projects
+- [Fidelius](https://github.com/YeeZTech/YeeZ-Privacy-Computing),
+
 
 # 4 Homomorphic Encryption (HE)
 
