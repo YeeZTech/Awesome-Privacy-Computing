@@ -176,6 +176,8 @@
 
 
 # 3 Trusted Execution Environment (TEE)
+## 3.1 TEE Papers
+
 Title | Venue | PDF
 --- | --- | ---
 VC3: trustworthy data analytics in the cloud using SGX | S&P'15 | [link](http://www.ieee-security.org/TC/SP2015/papers-archived/6949a038.pdf)
