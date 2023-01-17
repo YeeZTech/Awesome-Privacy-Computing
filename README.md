@@ -176,6 +176,17 @@
 
 
 # 3 Trusted Execution Environment (TEE)
+Title | Venue | PDF
+--- | --- | ---
+VC3: trustworthy data analytics in the cloud using SGX | S&P'15 | [link](http://www.ieee-security.org/TC/SP2015/papers-archived/6949a038.pdf)
+Ryoan: a distributed sandbox for untrusted computation on secret data. | OSDI'16 | [link](https://www.usenix.org/system/files/conference/osdi16/osdi16-hunt.pdf)
+Securing Data Analytics on SGX With Randomization | ESORICS'17 | [link](http://web.cse.ohio-state.edu/~lin.3021/file/ESORICS17.pdf)
+STANlite - a database engine for secure data processing at rack-scale level | IC2E'18 | [link](https://www.ibr.cs.tu-bs.de/users/sartakov/papers/sartakov18stanlite.pdf)
+Slalom: Fast, Verifiable and Private Execution of Neural Networks in Trusted Hardware | ICLR'19 | [link](https://arxiv.org/pdf/1806.03287.pdf)
+Using Trusted Execution Environments for Secure Stream Processing of Medical Data | DAIS'19 | [link](https://arxiv.org/pdf/1906.07072.pdf)
+Computation on Encrypted Data using Dataflow Authentication | PETS'20 | [link](https://petsymposium.org/2020/files/papers/issue1/popets-2020-0002.pdf)
+secureTF: A Secure TensorFlow Framework | Middleware'20 | [link](https://arxiv.org/pdf/2101.08204.pdf)
+Vessels: Efficient and Scalable Deep Learning Prediction on Trusted Processors | SoCC'20 | [link](https://lifeasageek.github.io/papers/kyungtae-vessels.pdf)
 
 # 4 Homomorphic Encryption (HE)
 
